@@ -1,0 +1,114 @@
+body{
+    background-color: #D4BDAC;
+    color: #FFF1DB;
+    font-size: 25px;
+}
+img{
+    height: 250px;
+    width: 175px;
+    border: 10px solid;
+    margin: 10px;
+}
+.header{
+    position: relative;
+    margin-bottom: 10px;
+    background-color: #EF5A6F;
+    padding: 10px;
+}
+.P-header h1{
+    position: absolute;
+    top: 20px;
+    left: 490px;
+    font-size: 100px;
+}
+.content{
+    background-color: #536493;
+    height: 1500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    
+}
+.content a{
+    text-decoration: none;
+    color: #FFF1DB;
+}
+.content1{
+    position: absolute;
+    top: 400px;
+    left: 445px;
+}
+.content2{
+    position: absolute;
+    top: 400px;
+    left: 845px;
+}
+.content3{
+    position: absolute;
+    top: 400px;
+    left: 1245px;
+}
+.content4{
+    position: absolute;
+    top: 850px;
+    left: 445px;
+}
+.content5{
+    position: absolute;
+    top: 850px;
+    left: 845px;
+}
+.content6{
+    position: absolute;
+    top: 850px;
+    left: 1245px;
+}
+.content7{
+    position: absolute;
+    top: 1300px;
+    left: 445px;
+}
+.content8{
+    position: absolute;
+    top: 1300px;
+    left: 845px;
+}
+.content9{
+    position: absolute;
+    top: 1300px;
+    left: 1245px;
+}
+footer{
+    background-color: #EF5A6F;
+    height: 160px;
+    padding: 20px;
+    text-align: center;
+}
+#icon{
+    border: 0px;
+    width: 50px;
+    height: 50px;
+}
+.story-1{
+    position: relative;
+    width: 86%;
+    left: 6%;
+    margin-bottom: 20px;
+    background-color: #536493;
+    padding: 10px;
+    
+}
+.story-1 img {
+    height: 250px;
+    width: 175px;
+}
+.right{
+    float: right;
+}
+.return {
+    text-decoration: none;
+    text-align: right;
+    color: #FFF1DB;
+}
+
+
